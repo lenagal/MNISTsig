@@ -19,6 +19,7 @@ signature_dim=(pow(2,level+1)-1)
 #number of paths in the dyadic tree
 #if training only with lowest level of dyadic samples set
 sampled_pieces=2**fractal_depth
+#if training with the whole tree of paths set
 #sampled_pieces=(pow(2,fractal_depth+1)-1)
 
 #directory path
